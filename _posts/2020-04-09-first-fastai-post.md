@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: The first fastai post.
 categories: [Day1]
-title: First fastai post
+
 ---
 What i accomplished today
 I set up PaperSpace.

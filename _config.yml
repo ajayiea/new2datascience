@@ -40,8 +40,8 @@ baseurl: "/new2datascience" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: https://twitter.com/AjEsohe
+    github: https://github.com/A2Eweb
 
 # Set this to true to get LaTeX math equation support
 use_math: 

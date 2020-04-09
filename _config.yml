@@ -41,7 +41,7 @@ baseurl: "/new2datascience" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: https://twitter.com/AjEsohe
-    github: https://github.com/A2Eweb
+    github: "https://github.com/A2Eweb"
 
 # Set this to true to get LaTeX math equation support
 use_math: 

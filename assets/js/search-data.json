@@ -25,9 +25,20 @@
 
   
   
+      ,"page0": {
+          "title": "First fastai post",
+          "content": "What i accomplished today I set up PaperSpace. It was quiet easy with the directions in the channel. . .",
+          "url": "https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post",
+          "relUrl": "/2020-04-09-first-fastai-post",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page1": {
+
+  
+      ,"page2": {
           "title": "About Me",
           "content": "This is my fastai journey blog with Jeremy Howard and Jess. For the month of March, April and May .",
           "url": "https://a2eweb.github.io/new2datascience/about/",
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://a2eweb.github.io/new2datascience/robots.txt",

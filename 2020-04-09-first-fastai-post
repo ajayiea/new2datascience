@@ -3,30 +3,30 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Search | new2datascience</title>
+<title>First fastai post | new2datascience</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Search" />
+<meta property="og:title" content="First fastai post" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="blogging about my fastai journey." />
-<meta property="og:description" content="blogging about my fastai journey." />
-<link rel="canonical" href="https://a2eweb.github.io/new2datascience/search/" />
-<meta property="og:url" content="https://a2eweb.github.io/new2datascience/search/" />
+<meta name="description" content="The first fastai post." />
+<meta property="og:description" content="The first fastai post." />
+<link rel="canonical" href="https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post" />
+<meta property="og:url" content="https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post" />
 <meta property="og:site_name" content="new2datascience" />
 <script type="application/ld+json">
-{"description":"blogging about my fastai journey.","headline":"Search","@type":"WebPage","url":"https://a2eweb.github.io/new2datascience/search/","@context":"https://schema.org"}</script>
+{"description":"The first fastai post.","headline":"First fastai post","@type":"WebPage","url":"https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/new2datascience/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://a2eweb.github.io/new2datascience/feed.xml" title="new2datascience" /><link rel="shortcut icon" type="image/x-icon" href="/new2datascience/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Search | new2datascience</title>
+<title>First fastai post | new2datascience</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Search" />
+<meta property="og:title" content="First fastai post" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="blogging about my fastai journey." />
-<meta property="og:description" content="blogging about my fastai journey." />
-<link rel="canonical" href="https://a2eweb.github.io/new2datascience/search/" />
-<meta property="og:url" content="https://a2eweb.github.io/new2datascience/search/" />
+<meta name="description" content="The first fastai post." />
+<meta property="og:description" content="The first fastai post." />
+<link rel="canonical" href="https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post" />
+<meta property="og:url" content="https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post" />
 <meta property="og:site_name" content="new2datascience" />
 <script type="application/ld+json">
-{"description":"blogging about my fastai journey.","headline":"Search","@type":"WebPage","url":"https://a2eweb.github.io/new2datascience/search/","@context":"https://schema.org"}</script>
+{"description":"The first fastai post.","headline":"First fastai post","@type":"WebPage","url":"https://a2eweb.github.io/new2datascience/2020-04-09-first-fastai-post","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -78,18 +78,40 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <!-- adapted from https://github.com/pmarsceill/just-the-docs -->
-<script type="text/javascript" src="/new2datascience/assets/js/search.js"></script>
-<script type="text/javascript" src="/new2datascience/assets/js/vendor/lunr.min.js"></script>
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="search">
-    <div class="search-input-wrap">
-    <input type="text" class="js-search-input search-input input-block form-control" tabindex="0" placeholder="Search new2datascience" aria-label="Search new2datascience" autocomplete="off">
-    </div>
-    <br>
-    <div class="js-search-results search-results-wrap"></div>
-</div>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">First fastai post</h1><p class="page-description">The first fastai post.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="" itemprop="datePublished">
+        
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      1 min read
+    
+</span></p>
 
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/new2datascience/categories/#Day1">Day1</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+</ul>What i accomplished today
+I set up PaperSpace.
+It was quiet easy with the directions in the channel.
+
+![](/new2datascience/images/paperspace.jpg "paperspace")
+
+  </div><a class="u-url" href="/new2datascience/2020-04-09-first-fastai-post" hidden></a>
+</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/new2datascience/"></data>
